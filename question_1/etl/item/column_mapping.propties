@@ -1,0 +1,11 @@
+商品编码=item_code
+商品名称=item_title
+京东分类=category
+品牌=brand
+商品货号=mpn
+外部ID=outer_id
+上架时间=shelf_on_at
+下架时间=shelf_off_at
+创建时间=created_at
+修改时间=updated_at
+商品状态=state
